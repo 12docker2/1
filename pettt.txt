@@ -1,1 +1,1 @@
-Start-Process -WindowStyle hidden notepad.exe
+c3RhcnQgY21kLmV4ZQ==
